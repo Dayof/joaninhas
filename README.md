@@ -6,7 +6,7 @@ Desenvolvimento do app "Joaninhas" para Hackathon 2016 da Embrapa. O objetivo do
 Ferramentas
 -----------
 
-- Utilizaremos o Cordoba para poder gerar um aplicativo móvel multi-plataforma, à princípio voltado para Android.
+- Utilizaremos o Cordova para poder gerar um aplicativo móvel multi-plataforma, à princípio voltado para Android.
 
 Linha do tempo
 --------------
