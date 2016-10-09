@@ -1,10 +1,8 @@
 # Joaninhas
-=========
 
 Desenvolvimento do app "Joaninhas" para Hackathon 2016 da Embrapa. O objetivo do aplicativo é coletar dados sobre as pragas que atacam plantações de soja e proporcionar ao produtor alguma informação que possa contribuir com o seu cultivo. A partir de um teste de pano branco, o produtor contabilizaria quais e quantos insetos foram encontrados em um dado talhão. Estes dados seriam encaminhados à Embrapa, que, por sua vez, daria alguma recomendação a cerca da situação descrita.
 
 ## Ferramentas
------------
 
  - Ionic
   - Angular JS
@@ -14,6 +12,7 @@ Desenvolvimento do app "Joaninhas" para Hackathon 2016 da Embrapa. O objetivo do
   - CSS
 
 ## Instalação
+
 ```
 $ cd joaninhas
 $ sudo npm install -g cordova ionic
@@ -28,6 +27,7 @@ $ ionic emulate android
 ```
 
 ## Executar (Browser)
+
 ```
 $ cd joaninhas
 $ ionic serve
@@ -70,8 +70,7 @@ $ ionic run android
     - edson.hirose@embrapa.br
 
 
-Linha do tempo
---------------
+## Linha do tempo
 
 07/10
 - Decisões de ferramentas
