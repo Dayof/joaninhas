@@ -6,11 +6,40 @@ Desenvolvimento do app "Joaninhas" para Hackathon 2016 da Embrapa. O objetivo do
 Ferramentas
 -----------
 
-- Utilizaremos o Cordova para poder gerar um aplicativo móvel multi-plataforma, à princípio voltado para Android.
+ - Ionic
+  - Angular JS
+  - Cordova
+  - Gulp (CLI)
+  - HTML
+  - CSS
 
 Linha do tempo
 --------------
 
-```
-TODO: ADICIONAR LINHA DO TEMPO
-```
+07/10
+- Decisões de ferramentas
+  - Ionic
+  
+08/10
+- Infraestrutura
+- Arquitetura de Navegação
+
+10/10
+- Arquitetura de Software
+- Wireframe
+
+13/10
+- Arquitetura de BD
+
+16/10
+- Scripts de busca
+
+21/10
+- Implantação das API's 
+- UI
+
+25/10
+- Testes
+
+27/10
+- Entrega no app Joninhas
