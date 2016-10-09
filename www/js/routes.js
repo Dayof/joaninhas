@@ -7,8 +7,8 @@ angular.module('app.routes', [])
   // Set up the various states which the app can be in.
   // Each state's controller can be found in controllers.js
   $stateProvider
-    
-  
+
+
 
       .state('menu.home', {
     url: '/page1',
@@ -48,12 +48,12 @@ angular.module('app.routes', [])
 
   .state('jOANINHAS', {
     url: '/',
-    templateUrl: 'templates/jOANINHAS.html',
+    templateUrl: 'templates/joaninhas.html',
     controller: 'jOANINHASCtrl'
   })
 
 $urlRouterProvider.otherwise('/')
 
-  
+
 
 });
