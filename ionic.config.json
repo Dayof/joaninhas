@@ -1,0 +1,8 @@
+{
+  "name": "joaninhas",
+  "app_id": "888bb0be",
+  "watchPatterns": [
+    "www/js/*",
+    "!www/css/**/*"
+  ]
+}
