@@ -66,7 +66,7 @@ $ ionic emulate android
     - @lenamiroux
         - Helena Quintas Neves Simões
         - helena.simoes@me.com
-    - ...
+    - @beneryxo
         - Beatriz Melo Franco Nery
         - beatrizmfnery@gmail.com
 
