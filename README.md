@@ -17,7 +17,6 @@ Desenvolvimento do app "Joaninhas" para Hackathon 2016 da Embrapa. O objetivo do
 $ cd joaninhas
 $ sudo npm install -g cordova ionic
 $ sudo npm install
-$ ionic hooks add
 ```
 
 ## Configurar plataformas
@@ -25,7 +24,6 @@ $ ionic hooks add
 ```
 $ ionic platform add android
 $ ionic build android
-$ ionic emulate android
 ```
 
 ## Executar (Browser)
@@ -40,32 +38,18 @@ A aplicação estará ativa no endereço http://localhost:8100/ .
 
 ## Executar (Android nativo)
 
+Celular
+
 ```
 $ cd joaninhas
 $ ionic run android
 ```
 
-## Android Setup
-
-Mac OS X
+Simulador (ATENÇÃO: Necessita do SDK do Android instalado!!!)
 
 ```
-$ export ANDROID_HOME=/<installation location>/android-sdk-macosx
-$ export PATH=${PATH}:$ANDROID_HOME/tools:$ANDROID_HOME/platforms
-```
-
-Linux
-
-```
-$ export ANDROID_HOME=/<installation location>/android-sdk-linux
-$ export PATH=${PATH}:$ANDROID_HOME/tools:$ANDROID_HOME/platforms
-```
-
-Windows
-
-```
-$ set ANDROID_HOME=C:\<installation location>\android-sdk-windows
-$ set PATH=%PATH%;%ANDROID_HOME%\tools;%ANDROID_HOME%\platforms
+$ cd joaninhas
+$ ionic emulate android
 ```
 
 ## Equipe
