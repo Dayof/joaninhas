@@ -8,8 +8,6 @@ angular.module('app.routes', [])
   // Each state's controller can be found in controllers.js
   $stateProvider
 
-
-
       .state('menu.home', {
     url: '/page1',
     views: {
@@ -46,10 +44,10 @@ angular.module('app.routes', [])
     controller: 'menuCtrl'
   })
 
-  .state('jOANINHAS', {
+  .state('joaninhas', {
     url: '/',
     templateUrl: 'templates/joaninhas.html',
-    controller: 'jOANINHASCtrl'
+    controller: 'joaninhasCtrl'
   })
 
 $urlRouterProvider.otherwise('/')
