@@ -63,7 +63,7 @@ $ ionic emulate android
         - cristiano.a.junior@ieee.org
 
 - Front-End:
-    - @lenamiroux
+    - @lenasimoes
         - Helena Quintas Neves Simões
         - helena.simoes@me.com
     - @beneryxo
